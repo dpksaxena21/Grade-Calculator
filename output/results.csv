@@ -1,0 +1,7 @@
+Rank,Student Name,Mathematics (Marks),Mathematics (Grade),Science (Marks),Science (Grade),Social Science (Marks),Social Science (Grade),Hindi (Marks),Hindi (Grade),Total,Max Total,Percentage,Overall Grade,Result
+1,Siddharth Chaturvedi,92.0,O,95.0,O,90.0,O,85.0,A+,362.0,400,90.5%,O,PASS
+2,Lakshita Bhakuni,90.0,O,92.0,O,88.0,A+,85.0,A+,355.0,400,88.8%,A+,PASS
+3,Harshita Sharma,78.0,A,82.0,A+,88.0,A+,80.0,A+,328.0,400,82.0%,A+,PASS
+4,Sahil Sayyed,69.0,B+,75.0,A,80.0,A+,70.0,A,294.0,400,73.5%,A,PASS
+5,Deepak Saxena,48.0,C,55.0,B,60.0,B+,50.0,B,213.0,400,53.2%,B,PASS
+6,Akanksha Sharma,0.0,F,0.0,F,0.0,F,0.0,F,0.0,400,0.0%,F,FAIL

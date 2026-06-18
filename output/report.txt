@@ -1,0 +1,78 @@
+============================================================
+           STUDENT GRADE REPORT
+Total Students : 6
+Passed :         5
+Failed :         1
+Class Average :  64.7%
+Pass Rate : 83.3%
+Class Topper : Siddharth Chaturvedi (90.5%)
+
+============================================================
+
+Rank #1: Siddharth Chaturvedi
+----------------------------------------
+  Mathematics           92.0 / 100   (92.0%)   O
+  Science               95.0 / 100   (95.0%)   O
+  Social Science        90.0 / 100   (90.0%)   O
+  Hindi                 85.0 / 100   (85.0%)   A+
+----------------------------------------
+  Total                362.0 / 400 (90.5%)
+  Overall Grade   : O: Outstanding
+  Result          : PASS
+
+Rank #2: Lakshita Bhakuni
+----------------------------------------
+  Mathematics           90.0 / 100   (90.0%)   O
+  Science               92.0 / 100   (92.0%)   O
+  Social Science        88.0 / 100   (88.0%)   A+
+  Hindi                 85.0 / 100   (85.0%)   A+
+----------------------------------------
+  Total                355.0 / 400 (88.8%)
+  Overall Grade   : A+: Excellent
+  Result          : PASS
+
+Rank #3: Harshita Sharma
+----------------------------------------
+  Mathematics           78.0 / 100   (78.0%)   A
+  Science               82.0 / 100   (82.0%)   A+
+  Social Science        88.0 / 100   (88.0%)   A+
+  Hindi                 80.0 / 100   (80.0%)   A+
+----------------------------------------
+  Total                328.0 / 400 (82.0%)
+  Overall Grade   : A+: Excellent
+  Result          : PASS
+
+Rank #4: Sahil Sayyed
+----------------------------------------
+  Mathematics           69.0 / 100   (69.0%)   B+
+  Science               75.0 / 100   (75.0%)   A
+  Social Science        80.0 / 100   (80.0%)   A+
+  Hindi                 70.0 / 100   (70.0%)   A
+----------------------------------------
+  Total                294.0 / 400 (73.5%)
+  Overall Grade   : A: Very Good
+  Result          : PASS
+
+Rank #5: Deepak Saxena
+----------------------------------------
+  Mathematics           48.0 / 100   (48.0%)   C
+  Science               55.0 / 100   (55.0%)   B
+  Social Science        60.0 / 100   (60.0%)   B+
+  Hindi                 50.0 / 100   (50.0%)   B
+----------------------------------------
+  Total                213.0 / 400 (53.2%)
+  Overall Grade   : B: Above Average
+  Result          : PASS
+
+Rank #6: Akanksha Sharma
+----------------------------------------
+  Mathematics            0.0 / 100   (0.0%)   F
+  Science                0.0 / 100   (0.0%)   F
+  Social Science         0.0 / 100   (0.0%)   F
+  Hindi                  0.0 / 100   (0.0%)   F
+----------------------------------------
+  Total                  0.0 / 400 (0.0%)
+  Overall Grade   : F: Fail
+  Result          : FAIL
+  Failed in      : Mathematics, Science, Social Science, Hindi
+
